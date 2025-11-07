@@ -65,3 +65,6 @@ Run Covid_19.ipynb
 
 Ensure pyspark and matplotlib libraries are installed
 
+#Output
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/bc681f03-5b5e-4cc5-8e34-de8619e4d6d9" />
